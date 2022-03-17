@@ -4,7 +4,7 @@ public class username {
 	{
 		Scanner sc= new Scanner(System.in);
 		System.out.print("entre usernamne-");
-		String abc=sc.nextLine();
+		String abc=sc.nextLine();  
 		System.out.print("your name "+abc);
 	}
 }
